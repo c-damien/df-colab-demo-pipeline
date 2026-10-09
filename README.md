@@ -23,7 +23,4 @@ Each pipeline section is completely self-contained and includes:
 - **Dataflow Job Launch**: Ready-to-execute commands to submit the streaming jobs to `DataflowRunner`.
 - **Test Payload Generator**: Commands to publish sample events to Pub/Sub and upload sample JSON files to GCS to test the live pipelines.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://google.com)
-
-[Click here to open the notebook in Colab](https://githubtocolab.com/c-damien/df-colab-demo-pipeline/dataflow_pipelines_gcs_demo.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/c-damien/df-colab-demo-pipeline/blob/main/dataflow_pipelines_gcs_demo.ipynb)
